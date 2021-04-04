@@ -1,0 +1,2 @@
+# TITANIC SURVIVAL PREDICTION USING DECISION TREES FROM SCRATCH
+Prediction whether a member onboard will survive after the crash depending on features like their class in the ship, age, etc. This will help people who didn’t find their loved ones and don’t actually know whether they’re dead or not. Decision Trees model was implemented from scratch (using NumPy). 
